@@ -1,14 +1,17 @@
 [
     {
-        "Author": "Gelid Guy",
+        "Author": "TooTired",
         "Name": "Go",
-        "Punchline": "testing",
-        "Description": "testing",
-        "InternalName": "testing",
+        "Punchline": "Punchline, just testing rn",
+        "Description": "Description, testing rn",
+        "Changelog": "",
+        "InternalName": "Go",
         "AssemblyVersion": "0.0.1",
         "RepoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "ApplicableVersion": "any",
-        "CategoryTags": [],
+        "CategoryTags": [
+            "utility"
+        ],
         "DalamudApiLevel": 9,
         "IconUrl": "",
         "ImageUrls": [
@@ -20,6 +23,6 @@
         "DownloadLinkTesting": "https://github.com/InstituteOfCeruleumEnergy/Go/releases/download/0.0.1/Latest.zip",
         "DownloadLinkUpdate": "https://github.com/InstituteOfCeruleumEnergy/Go/releases/download/0.0.1/Latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1699603425"
+        "LastUpdate": "1696379002"
     }
 ]
