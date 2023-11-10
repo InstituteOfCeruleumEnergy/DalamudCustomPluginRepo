@@ -17,11 +17,11 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/InstituteOfCeruleumEnergy/Go/releases/download/0.0.1/Latest.zip",
+        "DownloadLinkInstall": "https://github.com/InstituteOfCeruleumEnergy/DalamudCustomPluginRepo/releases/download/0.0.1/go.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/InstituteOfCeruleumEnergy/Go/releases/download/0.0.1/Latest.zip",
-        "DownloadLinkUpdate": "https://github.com/InstituteOfCeruleumEnergy/Go/releases/download/0.0.1/Latest.zip",
+        "DownloadLinkTesting": "https://github.com/InstituteOfCeruleumEnergy/DalamudCustomPluginRepo/releases/download/0.0.1/go.zip",
+        "DownloadLinkUpdate": "https://github.com/InstituteOfCeruleumEnergy/DalamudCustomPluginRepo/releases/download/0.0.1/go.zip",
         "DownloadCount": 0,
         "LastUpdate": "1696379002"
     }
