@@ -1,0 +1,25 @@
+[
+    {
+        "Author": "Gelid Guy",
+        "Name": "Go",
+        "Punchline": "testing",
+        "Description": "testing",
+        "InternalName": "testing",
+        "AssemblyVersion": "0.0.1",
+        "RepoUrl": "https://github.com/InstituteOfCeruleumEnergy/Go",
+        "ApplicableVersion": "any",
+        "CategoryTags": [],
+        "DalamudApiLevel": 8,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/InstituteOfCeruleumEnergy/Go/releases/download/0.0.1/Latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/InstituteOfCeruleumEnergy/Go/releases/download/0.0.1/Latest.zip",
+        "DownloadLinkUpdate": "https://github.com/InstituteOfCeruleumEnergy/Go/releases/download/0.0.1/Latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1699603425"
+    }
+]
