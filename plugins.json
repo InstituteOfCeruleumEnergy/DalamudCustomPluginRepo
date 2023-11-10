@@ -1,9 +1,9 @@
 [
     {
-        "Author": "TooTired",
-        "Name": "Go to place",
-        "Punchline": "Punchline, just testing rn",
-        "Description": "Description, testing rn",
+        "Author": "Aetherocaffeinated",
+        "Name": "Go",
+        "Punchline": "Teleport with game chat. Inspired by Pohky's Teleporter.",
+        "Description": "Adds a chat command that makes teleporting fast, easy, and intuitive.",
         "Changelog": "",
         "InternalName": "SamplePlugin",
         "AssemblyVersion": "0.0.1",
